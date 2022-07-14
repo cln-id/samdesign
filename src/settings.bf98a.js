@@ -1,0 +1,1 @@
+window._CCSettings={platform:"web-mobile",groupList:["default"],collisionMatrix:[[true]],hasResourcesBundle:false,hasStartSceneBundle:false,remoteBundles:[],subpackages:[],launchScene:"db://assets/01_shouYe/01_shouYe.fire",orientation:"",jsList:["assets/01_shouYe/jiaoBen/jumpScene.c8b90.js"],bundleVers:{internal:"1b082",main:"eb2ca"}};
